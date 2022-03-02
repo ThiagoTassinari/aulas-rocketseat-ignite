@@ -1,10 +1,10 @@
 import { RepositoryItem } from "./RepositoryItem";
 
 const repository = {
-    name: "repository",
-    description: "Forms in React",
-    link: "https://github.com/ThiagoTassinari/aulas-rocketseat-ignite",
-}
+  name: "repository",
+  description: "Forms in React",
+  link: "https://github.com/ThiagoTassinari/aulas-rocketseat-ignite",
+};
 
 export function RepositoryList() {
   return (
